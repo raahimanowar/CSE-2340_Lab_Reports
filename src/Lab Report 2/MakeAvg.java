@@ -2,7 +2,7 @@ import java.util.*;
 
 public class MakeAvg {
     public static void main(String args[]) {
-    Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         int A;
         int B;
         int C;
@@ -16,5 +16,7 @@ public class MakeAvg {
         } else  {
             System.out.println("B doesn't exists");
         }
+
+        sc.close();
     }
 }
