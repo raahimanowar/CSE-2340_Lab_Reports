@@ -1,6 +1,8 @@
+package labreport2;
+
 import java.util.*;
 
-public class FindStrictAvergae {
+public class FindStrictAverage {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
